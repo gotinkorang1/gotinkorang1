@@ -8,6 +8,10 @@
   <a href="mailto:contact@gershon.one"><img src="assets/contact.svg" width="170" height="42" alt="Email contact@gershon.one" /></a>
 </p>
 
+<p align="center">
+<a href="#selected-work">Selected work</a> &nbsp; / &nbsp; <a href="#my-toolkit">Toolkit</a> &nbsp; / &nbsp; <a href="#currently-building-on">Learning</a>
+</p>
+
 ### Practical technology. Real business needs.
 
 I support the infrastructure that keeps teams working and build the websites and tools that help businesses grow. My work connects **IT support, systems administration, networking, and web development**.
@@ -16,9 +20,15 @@ Based in **St. John's, Newfoundland and Labrador**, with hands-on experience sup
 
 ## Selected work
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p>
+<a href="https://www.papersourcegh.com"><img src="https://raw.githubusercontent.com/gotinkorang1/gershon.one/main/public/projects/papersource-ghana.webp" width="49%" alt="PaperSource Ghana website preview — open the live site" /></a>
+<a href="https://www.niiplantsgroup.com"><img src="https://raw.githubusercontent.com/gotinkorang1/gershon.one/main/public/projects/nii-plants-group.webp" width="49%" alt="Nii Plants Group website preview — open the live site" /></a>
+</p>
+
+<sub>Website previews from my portfolio: PaperSource Ghana and Nii Plants Group.</sub>
+
+
+
 
 ### 01 / Personal portfolio
 **Infrastructure meets digital experience.**
@@ -27,8 +37,9 @@ My professional portfolio, bringing together website projects, infrastructure wo
 
 [Explore the website ↗](https://gershon.one) · [View repository](https://github.com/gotinkorang1/gershon.one)
 
-</td>
-<td width="50%" valign="top">
+
+---
+
 
 ### 02 / PaperSource
 **A digital storefront for a Ghanaian business.**
@@ -37,10 +48,9 @@ An ecommerce project connecting stationery retail with bulk purchasing and quote
 
 [Explore the website ↗](https://www.papersourcegh.com) · [View repository](https://github.com/gotinkorang1/papersource-mvp)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+
+---
+
 
 ### 03 / Trivoxo
 **Travel, events, and experiences.**
@@ -49,8 +59,9 @@ A web project bringing travel services, events, and ticketing into one digital e
 
 [Explore the website ↗](https://trivoxogh.com) · [View repository](https://github.com/gotinkorang1/Trivoxo)
 
-</td>
-<td width="50%" valign="top">
+
+---
+
 
 ### 04 / ERPNext ID cards
 **A practical tool for HR operations.**
@@ -59,11 +70,18 @@ A bilingual employee ID card print format with front-and-back layouts, employee 
 
 [Explore the code ↗](https://github.com/gotinkorang1/erpnext-id-card-print-format)
 
-</td>
-</tr>
-</table>
+
 
 ## My toolkit
+
+<p>
+<img src="https://img.shields.io/badge/Linux-102438?style=flat-square&amp;logo=linux&amp;logoColor=5eead4" alt="Linux" />
+<img src="https://img.shields.io/badge/Docker-102438?style=flat-square&amp;logo=docker&amp;logoColor=5eead4" alt="Docker" />
+<img src="https://img.shields.io/badge/PHP-102438?style=flat-square&amp;logo=php&amp;logoColor=5eead4" alt="PHP" />
+<img src="https://img.shields.io/badge/MySQL-102438?style=flat-square&amp;logo=mysql&amp;logoColor=5eead4" alt="MySQL" />
+<img src="https://img.shields.io/badge/WordPress-102438?style=flat-square&amp;logo=wordpress&amp;logoColor=5eead4" alt="WordPress" />
+<img src="https://img.shields.io/badge/Git-102438?style=flat-square&amp;logo=git&amp;logoColor=5eead4" alt="Git" />
+</p>
 
 | Area | Technologies & experience |
 | :--- | :--- |
